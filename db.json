@@ -1,0 +1,440 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Laptop",
+            "price": 199.99,
+            "category": "1",
+            "isInWishlist": true
+        },
+        {
+            "id": "2",
+            "name": "Smartphone",
+            "price": 209.99,
+            "category": "1",
+            "isInWishlist": true
+        },
+        {
+            "id": "3",
+            "name": "Tablet",
+            "price": 219.99,
+            "category": "1",
+            "isInWishlist": false
+        },
+        {
+            "id": "4",
+            "name": "Monitor",
+            "price": 129.99,
+            "category": "1",
+            "isInWishlist": false
+        },
+        {
+            "id": "5",
+            "name": "Keyboard",
+            "price": 49.99,
+            "category": "1",
+            "isInWishlist": true
+        },
+        {
+            "id": "6",
+            "name": "T-shirt",
+            "price": 19.99,
+            "category": "2",
+            "isInWishlist": false
+        },
+        {
+            "id": "7",
+            "name": "Jeans",
+            "price": 49.99,
+            "category": "2",
+            "isInWishlist": true
+        },
+        {
+            "id": "8",
+            "name": "Jacket",
+            "price": 89.99,
+            "category": "2",
+            "isInWishlist": false
+        },
+        {
+            "id": "9",
+            "name": "Sneakers",
+            "price": 69.99,
+            "category": "2",
+            "isInWishlist": false
+        },
+        {
+            "id": "10",
+            "name": "Hat",
+            "price": 29.99,
+            "category": "2",
+            "isInWishlist": true
+        },
+        {
+            "id": "11",
+            "name": "Pizza",
+            "price": 9.99,
+            "category": "3",
+            "isInWishlist": false
+        },
+        {
+            "id": "12",
+            "name": "Burger",
+            "price": 5.99,
+            "category": "3",
+            "isInWishlist": false
+        },
+        {
+            "id": "13",
+            "name": "Pasta",
+            "price": 7.99,
+            "category": "3",
+            "isInWishlist": false
+        },
+        {
+            "id": "14",
+            "name": "Salad",
+            "price": 4.99,
+            "category": "3",
+            "isInWishlist": false
+        },
+        {
+            "id": "15",
+            "name": "Sushi",
+            "price": 12.99,
+            "category": "3",
+            "isInWishlist": true
+        },
+        {
+            "id": "16",
+            "name": "Novel",
+            "price": 14.99,
+            "category": "4",
+            "isInWishlist": false
+        },
+        {
+            "id": "17",
+            "name": "Biography",
+            "price": 19.99,
+            "category": "4",
+            "isInWishlist": false
+        },
+        {
+            "id": "18",
+            "name": "Science Fiction",
+            "price": 24.99,
+            "category": "4",
+            "isInWishlist": false
+        },
+        {
+            "id": "19",
+            "name": "Fantasy",
+            "price": 29.99,
+            "category": "4",
+            "isInWishlist": false
+        },
+        {
+            "id": "20",
+            "name": "Mystery",
+            "price": 9.99,
+            "category": "4",
+            "isInWishlist": false
+        },
+        {
+            "id": "21",
+            "name": "Basketball",
+            "price": 29.99,
+            "category": "5",
+            "isInWishlist": false
+        },
+        {
+            "id": "22",
+            "name": "Soccer Ball",
+            "price": 19.99,
+            "category": "5",
+            "isInWishlist": false
+        },
+        {
+            "id": "23",
+            "name": "Tennis Racket",
+            "price": 49.99,
+            "category": "5",
+            "isInWishlist": false
+        },
+        {
+            "id": "24",
+            "name": "Baseball Glove",
+            "price": 39.99,
+            "category": "5",
+            "isInWishlist": false
+        },
+        {
+            "id": "25",
+            "name": "Yoga Mat",
+            "price": 19.99,
+            "category": "5",
+            "isInWishlist": false
+        },
+        {
+            "id": "26",
+            "name": "Action Figure",
+            "price": 14.99,
+            "category": "6",
+            "isInWishlist": false
+        },
+        {
+            "id": "27",
+            "name": "Doll",
+            "price": 19.99,
+            "category": "6",
+            "isInWishlist": false
+        },
+        {
+            "id": "28",
+            "name": "Puzzle",
+            "price": 9.99,
+            "category": "6",
+            "isInWishlist": false
+        },
+        {
+            "id": "29",
+            "name": "Board Game",
+            "price": 29.99,
+            "category": "6",
+            "isInWishlist": false
+        },
+        {
+            "id": "30",
+            "name": "Lego Set",
+            "price": 49.99,
+            "category": "6",
+            "isInWishlist": false
+        },
+        {
+            "id": "31",
+            "name": "Sofa",
+            "price": 499.99,
+            "category": "7",
+            "isInWishlist": false
+        },
+        {
+            "id": "32",
+            "name": "Dining Table",
+            "price": 299.99,
+            "category": "7",
+            "isInWishlist": false
+        },
+        {
+            "id": "33",
+            "name": "Chair",
+            "price": 99.99,
+            "category": "7",
+            "isInWishlist": false
+        },
+        {
+            "id": "34",
+            "name": "Bed",
+            "price": 399.99,
+            "category": "7",
+            "isInWishlist": false
+        },
+        {
+            "id": "35",
+            "name": "Wardrobe",
+            "price": 199.99,
+            "category": "7",
+            "isInWishlist": false
+        },
+        {
+            "id": "36",
+            "name": "Lipstick",
+            "price": 19.99,
+            "category": "8",
+            "isInWishlist": false
+        },
+        {
+            "id": "37",
+            "name": "Foundation",
+            "price": 29.99,
+            "category": "8",
+            "isInWishlist": false
+        },
+        {
+            "id": "38",
+            "name": "Mascara",
+            "price": 14.99,
+            "category": "8",
+            "isInWishlist": false
+        },
+        {
+            "id": "39",
+            "name": "Perfume",
+            "price": 49.99,
+            "category": "8",
+            "isInWishlist": false
+        },
+        {
+            "id": "40",
+            "name": "Nail Polish",
+            "price": 9.99,
+            "category": "8",
+            "isInWishlist": false
+        },
+        {
+            "id": "41",
+            "name": "Refrigerator",
+            "price": 799.99,
+            "category": "9",
+            "isInWishlist": false
+        },
+        {
+            "id": "42",
+            "name": "Washing Machine",
+            "price": 499.99,
+            "category": "9",
+            "isInWishlist": false
+        },
+        {
+            "id": "43",
+            "name": "Microwave",
+            "price": 99.99,
+            "category": "9",
+            "isInWishlist": false
+        },
+        {
+            "id": "44",
+            "name": "Oven",
+            "price": 399.99,
+            "category": "9",
+            "isInWishlist": false
+        },
+        {
+            "id": "45",
+            "name": "Dishwasher",
+            "price": 599.99,
+            "category": "9",
+            "isInWishlist": false
+        },
+        {
+            "id": "46",
+            "name": "Lawn Mower",
+            "price": 199.99,
+            "category": "10",
+            "isInWishlist": false
+        },
+        {
+            "id": "47",
+            "name": "Garden Hose",
+            "price": 29.99,
+            "category": "10",
+            "isInWishlist": false
+        },
+        {
+            "id": "48",
+            "name": "Patio Furniture",
+            "price": 299.99,
+            "category": "10",
+            "isInWishlist": false
+        },
+        {
+            "id": "49",
+            "name": "Grill",
+            "price": 199.99,
+            "category": "10",
+            "isInWishlist": false
+        },
+        {
+            "id": "50",
+            "name": "Garden Tools",
+            "price": 49.99,
+            "category": "10",
+            "isInWishlist": false
+        }
+    ],
+    "categories": [
+        {
+            "id": "1",
+            "name": "Electronics"
+        },
+        {
+            "id": "2",
+            "name": "Clothing"
+        },
+        {
+            "id": "3",
+            "name": "Food"
+        },
+        {
+            "id": "4",
+            "name": "Books"
+        },
+        {
+            "id": "5",
+            "name": "Sports"
+        },
+        {
+            "id": "6",
+            "name": "Toys"
+        },
+        {
+            "id": "7",
+            "name": "Furniture"
+        },
+        {
+            "id": "8",
+            "name": "Beauty"
+        },
+        {
+            "id": "9",
+            "name": "Home Appliances"
+        },
+        {
+            "id": "10",
+            "name": "Garden"
+        }
+    ],
+    "wishlist": [
+        {
+            "id": "1",
+            "name": "Laptop",
+            "price": 199.99,
+            "category": "1",
+            "isInWishlist": true
+        },
+        {
+            "id": "2",
+            "name": "Smartphone",
+            "price": 209.99,
+            "category": "1",
+            "isInWishlist": true
+        },
+        {
+            "id": "5",
+            "name": "Keyboard",
+            "price": 49.99,
+            "category": "1",
+            "isInWishlist": true
+        },
+        {
+            "id": "7",
+            "name": "Jeans",
+            "price": 49.99,
+            "category": "2",
+            "isInWishlist": true
+        },
+        {
+            "id": "10",
+            "name": "Hat",
+            "price": 29.99,
+            "category": "2",
+            "isInWishlist": true
+        },
+        {
+            "id": "15",
+            "name": "Sushi",
+            "price": 12.99,
+            "category": "3",
+            "isInWishlist": true
+        }
+    ]
+}
